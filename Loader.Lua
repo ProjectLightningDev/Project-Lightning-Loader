@@ -1,5 +1,5 @@
-if game.PlaceId == 8396586868 then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjectLightningDev/Main-Scripts/main/A%20one%20peice%20game"))()
+     if game.PlaceId == 8396586868 then
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjectLightningDev/Main-Scripts/main/A%20one%20peice%20game"))()
     
      elseif game.PlaceId == 9498006165 then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjectLightningDev/Main-Scripts/main/Clicker%20Simulator.Lua"))()
@@ -12,4 +12,5 @@ if game.PlaceId == 8396586868 then
      
      elseif game.PlaceId == 9498006165 then
      loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjectLightningDev/Main-Scripts/main/Tapping%20Simulator.Lua"))()
+    
 end
